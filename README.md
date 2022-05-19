@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Anything that I find interesting
 
 Courses Taken:
+
 Course   Course Name                                  Languages Used
 
 CS 161 - Intro to Computer Science                    C++
