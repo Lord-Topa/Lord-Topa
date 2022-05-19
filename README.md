@@ -7,10 +7,15 @@ Courses Taken:
 Course   Course Name                                  Languages Used
 
 CS 161 - Intro to Computer Science                    C++
+
 CS 162 - Intro to Computer Science                    C++
+
 CS 261 - Data Structures                              C
+
 CS 290 - Web Devolpment                               Node.JS, JavaScript, HTML 5, CSS
+
 CS 271 - Computer Architecture & Assembly Language    x86 MASM Assembly
+
 
 On my profile I plan to have both personal projects and course work that I have done
 
