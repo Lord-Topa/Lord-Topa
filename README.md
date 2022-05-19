@@ -5,7 +5,7 @@
 
 Courses Taken:
 
-Course   |Course Name                                 |Languages Used
+Course   \n|Course Name                                 |Languages Used
 
 CS 161 - Intro to Computer Science                    C++
 
