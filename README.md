@@ -1,7 +1,7 @@
 # About Me:
-* [Who Am I]()
-* [Courses Taken]()
-* [Public Projects]()
+* [Who Am I](https://github.com/Lord-Topa#who-am-i)
+* [Courses Taken](https://github.com/Lord-Topa#courses-taken)
+* [Projects](https://github.com/Lord-Topa#projects)
 
 ## Who Am I:
 I am a driven individual with a love for all things technology. I find a particular joy from finding ways to navigate obstacles.
