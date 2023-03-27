@@ -22,7 +22,7 @@ by experimenting with a new penatration testing tool I got called FlipperZero.
 |CS 372|Intro to Computer Networks|Python|
 
 ## Projects
-* [Topash](https://github.com/Lord-Topa/smallsh) - A smallsh I made for linux
+* [Topash](https://github.com/Lord-Topa/smallsh) - A small shell I made for linux
 * [Salty Scraper](https://github.com/Lord-Topa/PersonalProjects/tree/main/saltyBot) - A program meant to get data from saltybet and provide it to the user in a easy to digest and quick manner
 
 *Note: I am still attending classes and we have been advised that uploading our coursework could result in us getting in trouble for academic dishonesty if someone were to use it without our permission. With that in mind I have chosen to keep said work private, however I would be willing to share it upon request from a potential employer.* 
