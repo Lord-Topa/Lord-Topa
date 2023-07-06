@@ -30,6 +30,8 @@ by experimenting with a new penatration testing tool I got called FlipperZero.
 
 ## Projects
 * [Topash](https://github.com/Lord-Topa/smallsh) - A small shell I made for linux
+* [MultiTool](https://github.com/Lord-Topa/MultiTool) - A multitool that I made as my project for software engineering 1
+* [Date Time Microservice](https://github.com/Lord-Topa/dateMicroservice) - A microservice that I made for my partners project in software engineering 1
 * [Salty Scraper](https://github.com/Lord-Topa/PersonalProjects/tree/main/saltyBot) - A program meant to get data from saltybet and provide it to the user in a easy to digest and quick manner
 
 *Note: I am still attending classes and we have been advised that uploading our coursework could result in us getting in trouble for academic dishonesty if someone were to use it without our permission. With that in mind I have chosen to keep said work private, however I would be willing to share it upon request from a potential employer.* 
