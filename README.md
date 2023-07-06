@@ -17,9 +17,16 @@ by experimenting with a new penatration testing tool I got called FlipperZero.
 |CS 261|Data Structures|C|
 |CS 271|Computer Architecture & Assembly Language|x86 MASM Assembly|
 |CS 290|Web Devolpment|Node.JS, JavaScript, HTML 5, CSS|
+|CS 321|Intro to Theory of Computation|variety of Regex|
+|CS 325|Analysis of Algorithms|Python|
 |CS 340|Intro to Databases|C, Node.JS, JavaScript, Python, SQL (specifically MYSQL)|
 |CS 344|Operating Systems|C, bash|
+|CS 352|Intro to Usability Engineering|Python|
+|CS 361|Software Engineering 1|JavaScript, Python|
+|CS 362|Software Engineering 2|JavaScript (Jest, Cypress, etc)|
+|CS 370|Intro to Security|Python, JavaScript|
 |CS 372|Intro to Computer Networks|Python|
+
 
 ## Projects
 * [Topash](https://github.com/Lord-Topa/smallsh) - A small shell I made for linux
